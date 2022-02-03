@@ -16,6 +16,15 @@ The Gist:
 - Enable SOCKS Proxy and configure Server name (127.0.0.1) & port number to use when contacting the proxy server (9050) 
 - Custom duration (in seconds) to change tor client ip address (optional)
 
+HOW TO USE
+```bash 
+
+git clone https://github.com/gomidee/AutoTor.git
+cd <Directory>
+chmod +x autotor.sh
+./autotor.sh
+```
+
 BE AWARE -> 
 
 - YOU SHOULD NOT USE THIS SCRIPT FOR UNLAWFUL PURPOSES
