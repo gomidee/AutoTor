@@ -1,5 +1,5 @@
 # AutoTor FOR MAC OS - Gomidee
-Install Tor Client on you mac with one click and set duration to change your ip address periodically
+Route Mac's computer traffic through the Tor network and periodically change IP adresses (optional)
 
 Features:
 - All traffic is routed through Tor
